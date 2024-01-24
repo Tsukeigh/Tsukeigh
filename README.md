@@ -1,6 +1,6 @@
 Hello, I'm Leigh. 👋🏼
 
-I'm a 22 year old inspiring developer based in Australia.
+I'm a 22 year old inspiring developer.
 
 <!--
 **Tsukeigh/Tsukeigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
